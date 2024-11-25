@@ -14,6 +14,8 @@ The dataset provided by Kaggle consists of:
 - **photo_jpg**: 7,028 real-world photos in JPG format.
 - Both types of images have a resolution of 256x256.
 
+https://www.kaggle.com/competitions/gan-getting-started/data
+
 ## Methodology
 1. **Exploratory Data Analysis (EDA):**
    - Visualized Monet paintings and real-world photos.
