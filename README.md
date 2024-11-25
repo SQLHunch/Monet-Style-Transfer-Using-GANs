@@ -16,6 +16,8 @@ The dataset provided by Kaggle consists of:
 
 https://www.kaggle.com/competitions/gan-getting-started/data
 
+Put the folders under the "Data" folder or adjust the path.
+
 ## Methodology
 1. **Exploratory Data Analysis (EDA):**
    - Visualized Monet paintings and real-world photos.
