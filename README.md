@@ -40,6 +40,18 @@ https://www.kaggle.com/competitions/gan-getting-started/data
 5. **Image Generation:**
    - Transformed the photo dataset into Monet-style paintings.
    - Saved the generated images into a single zip file (`images.zip`) for Kaggle submission.
+  
+## Required Libraries
+The project requires the following Python libraries:
+
+```python
+import os
+import shutil
+import zipfile
+import numpy as np
+import matplotlib.pyplot as plt
+from PIL import Image
+import tensorflow as tf
 
 ## Installation and Requirements
 1. Clone this repository:
